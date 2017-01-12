@@ -39,20 +39,20 @@ I am a Dane making it in the big world of London. Lover of the brutalist world a
 **Statoil UK** (May 2015 to November 2016)    
 - Commercial Downstream Gas/Power Operator
 
-*Part of the downstream gas operator shift team. The team is responsible for balancing and optimization of Statoil's downstream gas portfolios*
+*Part of the downstream gas/power operator shift team. The team is responsible for balancing and optimization of Statoil's downstream gas/power portfolios*
 
 **Statoil ASA** (Nov 2011 to May 2015)   
-- Analyst in Asset Management Refinery
+- Analyst in Asset Management Refinery (May 2014 - May 2015)
 
-*Part of a team responsible for the overall result and long term strategies of the oil refineries Mongstad and Kalundborg.*
+*I project managed several projects relating to Statoil's European Oil refineries Mongstad and Kalundborg.*
 
-- Gas Trader in Upstream Origination
+- Gas Trader in Upstream Origination (Feb 2013 - May 2014)
 
-*Part of a team responsible for identifying and analysing upstream gas opportunities on the Norwegian Continental Shelf to maximize the value of Statoil’s upstream gas portfolio.*
+*I was part of a team responsible for identifying and analyzing upstream gas opportunities on the Norwegian Continental Shelf in order to maximize the value of Statoil’s upstream gas portfolio.*
 
-- Gas Analyst in Market Analysis
+- Gas Analyst in Market Analysis (Nov 2011 - Feb 2013)
 
-*Part of a team responsible for identifying and analysing global gas markets with a primary focus on European markets contributing to the development of corporate strategy.*
+*I performed quantitative modeling of gas supply/demand fundamentals. Analyzed global gas markets with a primary focus on European markets and contributed to the development of the corporate gas strategy.*
 
 **Salfarm** (June 2010 to Nov 2011)  
 - Regional sales manager for Sweden and Norway
