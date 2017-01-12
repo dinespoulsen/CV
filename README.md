@@ -38,25 +38,21 @@ I am a Dane making it in the big world of London. Lover of the brutalist world a
 
 **Statoil UK** (May 2015 to November 2016)    
 - Commercial Downstream Gas/Power Operator
-
-Part of the downstream gas operator shift team. The team is responsible for balancing and optimization of Statoil's downstream gas portfolios.
+*Part of the downstream gas operator shift team. The team is responsible for balancing and optimization of Statoil's downstream gas portfolios*
 
 **Statoil ASA** (Nov 2011 to May 2015)   
 - Analyst in Asset Management Refinery
-Part of a team responsible for the overall result and long term strategies of the oil refineries Mongstad and Kalundborg.
+*Part of a team responsible for the overall result and long term strategies of the oil refineries Mongstad and Kalundborg.*
 
 - Gas Trader in Upstream Origination
-
-Part of a team responsible for identifying and analysing upstream gas opportunities on the Norwegian Continental Shelf to maximize the value of Statoil’s upstream gas portfolio.
+*Part of a team responsible for identifying and analysing upstream gas opportunities on the Norwegian Continental Shelf to maximize the value of Statoil’s upstream gas portfolio.*
 
 - Gas Analyst in Market Analysis
-
-Part of a team responsible for identifying and analysing global gas markets with a primary focus on European markets contributing to the development of corporate strategy.
+*Part of a team responsible for identifying and analysing global gas markets with a primary focus on European markets contributing to the development of corporate strategy.*
 
 **Salfarm** (June 2010 to Nov 2011)  
 - Regional sales manager for Sweden and Norway
-
-I set up a regional sales office for a privately owned pharmaceutical company. Established selling license in Sweden and Norway and facilitated sales and distribution channels. I was in charge of marketing and introducing new products into the two markets.
+*I set up a regional sales office for a privately owned pharmaceutical company. Established selling license in Sweden and Norway and facilitated sales and distribution channels. I was in charge of marketing and introducing new products into the two markets.*
 
 ## Interests
 - Basketball
