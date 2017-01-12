@@ -1,4 +1,4 @@
-[Get to know me](https://github.com/dinespoulsen/CV#get-to-know-me) | [Skills](https://github.com/dinespoulsen/CV#skills) | [Education](https://github.com/dinespoulsen/CV#education) | [Experience](https://github.com/dinespoulsen/CV#experience) | [Interests](https://github.com/dinespoulsen/CV#interests) | [Languages](https://github.com/dinespoulsen/CV#interests) |
+[Get to know me](https://github.com/dinespoulsen/CV#get-to-know-me) | [Skills](https://github.com/dinespoulsen/CV#skills) | [Education](https://github.com/dinespoulsen/CV#education) | [Work Experience](https://github.com/dinespoulsen/CV#experience) | [Interests](https://github.com/dinespoulsen/CV#interests) | [Languages](https://github.com/dinespoulsen/CV#interests) |
 
 ## Dines Michael Poulsen - Programmer under developement
 
@@ -34,7 +34,7 @@ I am a Dane making it in the big world of London. Lover of the brutalist world a
 - Statistics
 - Organisational theory
 
-## Experience
+## Work Experience
 
 **Statoil UK** (May 2015 to November 2016)    
 - Commercial Downstream Gas/Power Operator
