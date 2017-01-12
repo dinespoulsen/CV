@@ -2,11 +2,9 @@
 
 ## Dines Michael Poulsen - Programmer under developement
 
-I am a Dane making it in the big world of London. Lover of the brutalist world and a dedicated Scandi by heart. You can often find me wondering about in the Barbican corridors or on my occasional city escapes to the country side. I like cycling and I'm not shy for a business meeting to the sauna followed by a freezing dip.
+I am a Dane making it in the big world of London. Lover of the brutalist world and a dedicated Scandi by heart. You can often find me wondering about in the Barbican corridors or on my occasional city escapes to the country side. For the past 5 years I have been working as a Gas analyst covering work ranging from market analysis to gas operations. Before going in to the gas world I touched a bit upon entrepreneurship and I have always secretively wanted to learn how to program.  I've already found myself a fan of clean and easy readable code and motivated to jump into new coding languages.
 
-For the past 5 years I have been working as a Gas analyst covering work ranging from market analysis to gas operations. Before going in to the gas world I touched a bit upon entrepreneurship and I have always secretively wanted to learn how to program.  I've already found myself a fan of clean and easy readable code and motivated to jump into new coding languages.
-
-I don't see learning to code as a break with my passion for the energy markets but more as an add-on. I find it interesting to follow the challenges the energy industry is facing with competition from renewables and climate challenges pressuring for higher sustainable standards. I believe some of these challenges can be solved by technological advances in particular in tech improvements. I wish to become a programmer and unleash my creative side and I have found myself highly motivated when creating applications. I see myself either implementing my new found skills in the energy sector or finding a junior developer role in a small sized company where I am able to make my mark. I am self-driven and come with a tool-box full of analytical skills from previous roles and from my financial background.
+ I wish to become a programmer and unleash my creative side and I have found myself highly motivated when creating applications. I see myself implementing my new found skills in the energy sector or finding a junior developer role in a small sized company. I don't see learning to code as a break with my previous experience but as an addition to my profile. I find it interesting to follow the latest technological trends and it has been impressive to see the disruption of certain industries in the last couple of years. I still hold a high interest in the energy industry and follow the challenges the industry is facing with climate changes pressuring for higher sustainable standards. I believe some of these challenges will be solved by technological advances. I am self-driven and come with a tool-box full of analytical skills from previous roles and from my financial background. I hope to be able take advantage of my analytical nature as a developer and participate in motivating and rewarding projects.
 
 ## Education
 
@@ -50,10 +48,11 @@ I don't see learning to code as a break with my passion for the energy markets b
 - Regional sales manager for Sweden and Norway
 
 ## Interests
-- Furniture
 - Basketball
-- Financial markets
 - Currently working on improving my spoken Spanish
+- Furniture design
+- Nature/travelling
+- Cooking
 
 ## Languages (besides programming)
 - English
