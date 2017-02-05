@@ -1,12 +1,12 @@
-[Get to know me](https://github.com/dinespoulsen/CV#get-to-know-me) | [Skills](https://github.com/dinespoulsen/CV#skills) | [Education](https://github.com/dinespoulsen/CV#education) | [Work Experience](https://github.com/dinespoulsen/CV#experience) | [Interests](https://github.com/dinespoulsen/CV#interests) | [Languages](https://github.com/dinespoulsen/CV#interests) |
+[Get to know me](https://github.com/dinespoulsen/CV#get-to-know-me) | [Skills](https://github.com/dinespoulsen/CV#skills) | [Education](https://github.com/dinespoulsen/CV#education) | [Projects](https://github.com/dinespoulsen/CV#projects) | [Work Experience](https://github.com/dinespoulsen/CV#experience) | [Interests](https://github.com/dinespoulsen/CV#interests) | [Languages](https://github.com/dinespoulsen/CV#interests) |
 
 ## Dines Michael Poulsen - Programmer under developement
 
-I am a Dane making it in the big world of London. Lover of the brutalist world and a dedicated Scandi by heart. You can often find me wondering about in the Barbican corridors or on my occasional city escapes to the country side. For the past 5 years I have been working as a Gas analyst covering work ranging from market analysis to gas operations. Before going in to the gas world I touched a bit upon entrepreneurship and I have always secretively wanted to learn how to program.  I've already found myself a fan of clean and easy readable code and motivated to jump into new coding languages.
+I am a Dane making it in the big world of London. Lover of the brutalist world and a dedicated Scandi by heart. You can often find me wondering about in the Barbican corridors or on my occasional city escapes to the country side. For the past 5 years I have been working as a Gas analyst covering work ranging from market analysis to gas operations. Before deciding to become a developer I was working in the Energy industry.  I touched a bit upon entrepreneurship during my studies and I have always secretly wanted to learn how to program. I find myself very motivated in being able to create a product and enjoy the problem solving part of programming. I have a creative side that I feel I get to use when I program and design webpages. I am about to graduate from the Makers Academy bootcamp, London’s top web development bootcamp and I wish to become a junior developer.
 
- I wish to become a programmer and unleash my creative side and I have found myself highly motivated when creating applications. I see myself implementing my new found skills in the energy sector or finding a junior developer role where I can grow in the position. I don't see learning to code as a break with my previous experience but as an addition to my profile. I find it interesting to follow the latest technological trends and it has been impressive to see the disruption of certain industries in the last couple of years. I still hold a high interest in the energy industry and follow the challenges the industry is facing with climate changes pressuring for higher sustainable standards. I believe some of these challenges will be solved by technological advances.
+At Makers Academy you are taught the best practises within the programming industry. I have gained a high understanding of object oriented programming and I follow TDD practises. I want to pursue my interest in programming and I have enjoyed every moment since I made the decision. I am highly motivated to learn and I have demonstrated an ability to learn new programming languages fast. I want to apply my newly found programming skills and eventually become a senior developer. I hope to be able to continue my learning within programming and get challenged in the daily work. I want to have smart and helpful colleagues around me to learn from. I would like to work in a company that sticks to best practices and use TDD processes. So far I have found myself good at problem solving and debugging. I have a good analytical approach and I am good at picking up new technologies.
 
- I am good at adapting to new areas and I have proven that I am flexible when it comes to learning new skills or settling in new environments. My curiosity on life have meant that I have studied in the US and Canada, worked in Norway and the latest chapter have brought me to the UK. I am self-driven and come with a tool-box full of analytical skills from previous roles and from my financial background. I hope to be able take advantage of my analytical nature as a developer and participate in motivating and rewarding projects. I strive in a diverse environment and and look for a job where good collegial spirit is regarded as a high priority.
+I have a lot of international experience and thrive in a diverse community. I bring a lot of commercial experience after having worked in one of Scandinavia's largest companies. I am a team player and I have experience from project managing large and complex projects within the energy industry. I live in London with my Spanish girlfriend and I have been studying Spanish the last two years. I am an active and outgoing person that loves outdoor activities. I am passionate about food and I like to follow basketball in my spare time.
 
 
 ## Education
@@ -17,8 +17,36 @@ I am a Dane making it in the big world of London. Lover of the brutalist world a
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js, Swift
+- Ruby, Rails, Javascript, Node.js, Express
+- React
+- HTML & CSS
+- Websocket
 - Rspec, Jasmine, Mocha
+- Postgres, MongoDB
+
+## Projects
+
+**Standup & Retros**
+- https://github.com/TudorTacal/makers-standups-retros
+
+**Has_belongs**
+- https://github.com/dinespoulsen/has_belongs
+
+**Instagram-Challenge**
+- https://github.com/dinespoulsen/instagram-challenge
+
+**News-summary**
+- https://github.com/dinespoulsen/news-summary
+
+**Chitter-Challenge**
+- https://github.com/dinespoulsen/chitter-challenge
+
+**Bowling-Challenge**
+https://github.com/dinespoulsen/bowling-challenge
+
+**Rock, Paper & Scissors**
+- https://github.com/dinespoulsen/RPS
+
 
 #### Copenhagen Business School
 ##### Master's Degree in Applied Economics and Finance ( 2008 - 2011 )
