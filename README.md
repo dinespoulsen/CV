@@ -25,25 +25,25 @@ I have a lot of international experience and thrive in a diverse community. I br
 - Postgres, MongoDB
 
 ####Standup & Retros
-- https://github.com/TudorTacal/makers-standups-retros
+https://github.com/TudorTacal/makers-standups-retros
 
 ####Has_belongs
-- https://github.com/dinespoulsen/has_belongs
+https://github.com/dinespoulsen/has_belongs
 
 ####Instagram-Challenge
-- https://github.com/dinespoulsen/instagram-challenge
+https://github.com/dinespoulsen/instagram-challenge
 
 ####News-summary
-- https://github.com/dinespoulsen/news-summary
+https://github.com/dinespoulsen/news-summary
 
 ####Chitter-Challenge
-- https://github.com/dinespoulsen/chitter-challenge
+https://github.com/dinespoulsen/chitter-challenge
 
 ####Bowling-Challenge
-- https://github.com/dinespoulsen/bowling-challenge
+https://github.com/dinespoulsen/bowling-challenge
 
 ####Rock, Paper & Scissors
-- https://github.com/dinespoulsen/RPS
+https://github.com/dinespoulsen/RPS
 
 
 #### Copenhagen Business School
@@ -63,8 +63,7 @@ I have a lot of international experience and thrive in a diverse community. I br
 - Statistics
 - Organisational theory
 
-## Work Experience
-[Linkedin](https://uk.linkedin.com/in/dinespoulsen)
+## Work Experience - [Linkedin](https://uk.linkedin.com/in/dinespoulsen)
 
 **Statoil UK** (May 2015 to November 2016)    
 - Commercial Downstream Gas/Power Operator - *Part of the downstream gas/power operator shift team. The team is responsible for balancing and optimization of Statoil's downstream gas/power portfolios*
