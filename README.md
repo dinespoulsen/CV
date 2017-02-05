@@ -24,6 +24,7 @@ I have a lot of international experience and thrive in a diverse community. I br
 - Rspec, Jasmine, Mocha
 - Postgres, MongoDB
 
+###Project portfolio:
 ####Standup & Retros
 https://github.com/TudorTacal/makers-standups-retros
 
