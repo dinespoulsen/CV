@@ -1,4 +1,4 @@
-[Get to know me](https://github.com/dinespoulsen/CV#get-to-know-me) | [Skills](https://github.com/dinespoulsen/CV#skills) | [Education](https://github.com/dinespoulsen/CV#education) | [Projects](https://github.com/dinespoulsen/CV#projects) | [Work Experience](https://github.com/dinespoulsen/CV#experience) | [Interests](https://github.com/dinespoulsen/CV#interests) | [Languages](https://github.com/dinespoulsen/CV#interests) |
+[Get to know me](https://github.com/dinespoulsen/CV#get-to-know-me) | [Skills](https://github.com/dinespoulsen/CV#skills) | [Education](https://github.com/dinespoulsen/CV#education) | [Work Experience](https://github.com/dinespoulsen/CV#experience) | [Interests](https://github.com/dinespoulsen/CV#interests) | [Languages](https://github.com/dinespoulsen/CV#interests) |
 
 ## Dines Michael Poulsen - Programmer under developement
 
@@ -23,8 +23,6 @@ I have a lot of international experience and thrive in a diverse community. I br
 - Websocket
 - Rspec, Jasmine, Mocha
 - Postgres, MongoDB
-
-## Projects
 
 **Standup & Retros**
 - https://github.com/TudorTacal/makers-standups-retros
