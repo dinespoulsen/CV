@@ -24,25 +24,25 @@ I have a lot of international experience and thrive in a diverse community. I br
 - Rspec, Jasmine, Mocha
 - Postgres, MongoDB
 
-**Standup & Retros**
+####Standup & Retros
 - https://github.com/TudorTacal/makers-standups-retros
 
-**Has_belongs**
+####Has_belongs
 - https://github.com/dinespoulsen/has_belongs
 
-**Instagram-Challenge**
+####Instagram-Challenge
 - https://github.com/dinespoulsen/instagram-challenge
 
-**News-summary**
+####News-summary
 - https://github.com/dinespoulsen/news-summary
 
-**Chitter-Challenge**
+####Chitter-Challenge
 - https://github.com/dinespoulsen/chitter-challenge
 
-**Bowling-Challenge**
-https://github.com/dinespoulsen/bowling-challenge
+####Bowling-Challenge
+- https://github.com/dinespoulsen/bowling-challenge
 
-**Rock, Paper & Scissors**
+####Rock, Paper & Scissors
 - https://github.com/dinespoulsen/RPS
 
 
@@ -64,6 +64,7 @@ https://github.com/dinespoulsen/bowling-challenge
 - Organisational theory
 
 ## Work Experience
+[Linkedin](https://uk.linkedin.com/in/dinespoulsen)
 
 **Statoil UK** (May 2015 to November 2016)    
 - Commercial Downstream Gas/Power Operator - *Part of the downstream gas/power operator shift team. The team is responsible for balancing and optimization of Statoil's downstream gas/power portfolios*
