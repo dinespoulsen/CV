@@ -1,4 +1,4 @@
-[Get to know me](#About) | [Portfolio](#Portfolio) | [Education](#Education) | [Work Experience](#Experience) | [Interests](#Interests) | [Languages](#Languages)) |
+[Get to know me](#About) | [Portfolio](#Portfolio) | [Education](#Education) | [Work Experience](#Experience) | [Interests](#Interests) | [Languages](#Languages) |
 
 ## <a name="About">About</a>
 
