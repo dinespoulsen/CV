@@ -1,6 +1,6 @@
 [Get to know me](https://github.com/dinespoulsen/CV#About) | [Portfolio](https://github.com/dinespoulsen/CV#Portfolio) | [Education](https://github.com/dinespoulsen/CV#Education) | [Work Experience](https://github.com/dinespoulsen/CV#Work) | [Interests](https://github.com/dinespoulsen/CV#Interests) | [Languages](https://github.com/dinespoulsen/CV#Languages)) |
 
-## About
+##About
 
 I am a Dane making it in the big world of London. Lover of the brutalist world and a dedicated Scandi by heart. You can often find me wondering about in the Barbican corridors or on my occasional city escapes to the country side. I touched a bit upon entrepreneurship during my studies and I have always secretly wanted to learn how to program. I find myself very motivated in being able to create a product and enjoy the problem solving part of programming. I have a creative side that I feel I get to use when I program and design webpages. I have just graduated from the Makers Academy bootcamp, London’s top web development bootcamp and I wish to become a junior developer. Before deciding to become a developer I was working in the Energy industry and enjoy working with technical disciplines.  
 
@@ -21,7 +21,7 @@ Project | Description | Technologies | Testing
 [Rock, Paper and Scissors](https://github.com/dinespoulsen/RPS) |My week 3 weekend challenge from Makers Academy - Play Rock, Paper & Scissors against the computer or a friend | Html, Ruby, CSS, Sinatra | RSpec
 
 
-## Education
+##Education
 
 #### Makers Academy (Nov 2016 - Feb 2017)
 
@@ -73,14 +73,14 @@ Project | Description | Technologies | Testing
 **Salfarm Sweden/Norway** (June 2010 to Nov 2011)  
 - Regional sales manager for Sweden and Norway - *I set up a regional sales office for a privately owned pharmaceutical company. Established selling license in Sweden and Norway and facilitated sales and distribution channels. I was in charge of marketing and introducing new products into the two markets.*
 
-## Interests
+##Interests
 - Basketball
 - Currently working on improving my spoken Spanish
 - Furniture design
 - Nature/travelling
 - Cooking
 
-## Languages
+##Languages
 - English
 - Spanish
 - French
