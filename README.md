@@ -30,31 +30,13 @@ I have a lot of international experience and thrive in a diverse community. I br
 
 Project | Description | Technologies | Testing
 --- | --- | --- | ---
-[Standup&Retros](https://github.com/TudorTacal/makers-standups-retros | The final two week group project at Makers Acedemy | Node.js, Express, MongoDB, React, Websockets | Enzynme, Mocha, Chai
-[has_belongs](https://github.com/kwilson541/has_belongs) | Association Automation! My week 9 project at Makers Academy. A Ruby/Rails gem that automates the creation of PostgreSQL database associations in Rails. | Ruby, Thor, ActiveRecord | RSpec, Coveralls
-
-
-###Project portfolio:
-####Standup & Retros
-https://github.com/TudorTacal/makers-standups-retros
-
-####Has_belongs
-https://github.com/dinespoulsen/has_belongs
-
-####Instagram-Challenge
-https://github.com/dinespoulsen/instagram-challenge
-
-####News-summary
-https://github.com/dinespoulsen/news-summary
-
-####Chitter-Challenge
-https://github.com/dinespoulsen/chitter-challenge
-
-####Bowling-Challenge
-https://github.com/dinespoulsen/bowling-challenge
-
-####Rock, Paper & Scissors
-https://github.com/dinespoulsen/RPS
+[Standup&Retros](https://github.com/TudorTacal/makers-standups-retros) | The final two week group project at Makers Acedemy | Node.js, Express, MongoDB, React, Websockets, Heroku | Enzynme, Mocha, Chai
+[has_belongs](https://github.com/dinespoulsen/has_belongs) | Association Automation! My week 9 project at Makers Academy. A Ruby/Rails gem that automates the creation of PostgreSQL database associations in Rails. | Ruby, Thor, ActiveRecord | RSpec, Coveralls
+[Instagram Challenge](https://github.com/dinespoulsen/instagram-challenge) |My week 8 weekend challenge from Makers Academy | Ruby on Rails, Paperclip, Javascript/JQuery, ActiveRecord, Heroku, AWS | RSpec, Capybary
+[News-Summary](https://github.com/dinespoulsen/news-summary) |My week 7 weekend challenge from Makers Academy - fetching news articles from the Guardian API | Javascript/XTML, CSS, HTML |
+[Bowling Challenge](https://github.com/dinespoulsen/bowling-challenge) |My week 5 weekend challenge from Makers Academy - a bowling score interface built with Javascript | Javascript, Html, CSS |
+[Chitter-Challenge](https://github.com/dinespoulsen/chitter-challenge) |My week 4 weekend challenge from Makers Academy - an exercise to implement database associations | Postgres, DataMapper, Sinatra, Heroku, MailGun | RSpec
+[Rock, Paper and Scissors](https://github.com/dinespoulsen/RPS) |My week 3 weekend challenge from Makers Academy - Play Rock, Paper & Scissors against the computer or a friend | Html, Ruby, CSS, Sinatra | RSpec
 
 
 #### Copenhagen Business School
