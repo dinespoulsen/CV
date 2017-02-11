@@ -1,4 +1,4 @@
-[Get to know me](https://github.com/dinespoulsen/CV#About) |[Portfolio](https://github.com/dinespoulsen/CV#Portfolio) | [Education](https://github.com/dinespoulsen/CV#Education) | [Work Experience](https://github.com/dinespoulsen/CV#Work) | [Interests](https://github.com/dinespoulsen/CV#Interests) | [Languages](https://github.com/dinespoulsen/CV#Languages)) |
+[Get to know me](https://github.com/dinespoulsen/CV#About) | [Portfolio](https://github.com/dinespoulsen/CV#Portfolio) | [Education](https://github.com/dinespoulsen/CV#Education) | [Work Experience](https://github.com/dinespoulsen/CV#Work) | [Interests](https://github.com/dinespoulsen/CV#Interests) | [Languages](https://github.com/dinespoulsen/CV#Languages)) |
 
 ## About
 
