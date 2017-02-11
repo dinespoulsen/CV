@@ -1,4 +1,4 @@
-[Get to know me](https://github.com/dinespoulsen/CV#get-to-know-me) | [Skills](https://github.com/dinespoulsen/CV#skills) | [Education](https://github.com/dinespoulsen/CV#education) | [Work Experience](https://github.com/dinespoulsen/CV#experience) | [Interests](https://github.com/dinespoulsen/CV#interests) | [Languages](https://github.com/dinespoulsen/CV#interests) |
+[Get to know me](https://github.com/dinespoulsen/CV#get-to-know-me) |[Projects](https://github.com/dinespoulsen/CV#Project Portfolio) | [Skills](https://github.com/dinespoulsen/CV#skills) | [Education](https://github.com/dinespoulsen/CV#education) | [Work Experience](https://github.com/dinespoulsen/CV#experience) | [Interests](https://github.com/dinespoulsen/CV#interests) | [Languages](https://github.com/dinespoulsen/CV#interests) |
 
 ## Dines Michael Poulsen - Programmer under developement
 
@@ -7,6 +7,18 @@ I am a Dane making it in the big world of London. Lover of the brutalist world a
 At Makers Academy I learnt the best practise within the programming industry. I have gained a high understanding of object oriented programming and I follow TDD practises. I want to pursue my interest in programming and I have enjoyed every moment since I made the decision to start at Makers Academy. I am highly motivated to learn and I have demonstrated an ability to learn new programming languages fast. I want to apply my newly found programming skills and eventually become a senior developer. I hope to be able to continue my learning within programming and get challenged in the daily work. I want to have smart and helpful colleagues around me to learn from. I would like to work in a company that sticks to best practices and use Agile work processes. So far I have found myself good at problem solving and debugging. I have a good analytical approach and I am good at picking up new technologies.
 
 I have a lot of international experience and thrive in a diverse community. I bring a lot of commercial experience after having worked in one of Scandinavia's largest companies. I am a team player and I have experience from project managing large and complex projects within the energy industry. I live in London with my Spanish girlfriend and I have been studying Spanish the last two years. I am an active and outgoing person that loves outdoor activities. I am passionate about food and I like to follow basketball in my spare time.
+
+##Project Portfolio
+
+Project | Description | Technologies | Testing
+<!-- --- | --- | --- | --- -->
+[Standup&Retros](https://github.com/TudorTacal/makers-standups-retros) | The final two week group project at Makers Acedemy | Node.js, Express, MongoDB, React, Websockets, Heroku | Enzynme, Mocha, Chai
+[has_belongs](https://github.com/dinespoulsen/has_belongs) | Association Automation! My week 9 project at Makers Academy. A Ruby/Rails gem that automates the creation of PostgreSQL database associations in Rails. | Ruby, Thor, ActiveRecord | RSpec, Coveralls
+[Instagram Challenge](https://github.com/dinespoulsen/instagram-challenge) |My week 8 weekend challenge from Makers Academy | Ruby on Rails, Paperclip, Javascript/JQuery, ActiveRecord, Heroku, AWS | RSpec, Capybary
+[News-Summary](https://github.com/dinespoulsen/news-summary) |My week 7 weekend challenge from Makers Academy - fetching news articles from the Guardian API | Javascript/XTML, CSS, HTML |
+[Bowling Challenge](https://github.com/dinespoulsen/bowling-challenge) |My week 5 weekend challenge from Makers Academy - a bowling score interface built with Javascript | Javascript, Html, CSS |
+[Chitter-Challenge](https://github.com/dinespoulsen/chitter-challenge) |My week 4 weekend challenge from Makers Academy - an exercise to implement database associations | Postgres, DataMapper, Sinatra, Heroku, MailGun | RSpec
+[Rock, Paper and Scissors](https://github.com/dinespoulsen/RPS) |My week 3 weekend challenge from Makers Academy - Play Rock, Paper & Scissors against the computer or a friend | Html, Ruby, CSS, Sinatra | RSpec
 
 
 ## Education
@@ -26,17 +38,6 @@ I have a lot of international experience and thrive in a diverse community. I br
 - Rspec, Jasmine, Mocha, Enzyme
 - Postgres, MongoDB
 
-## <a name="projects">Projects Showcase</a>
-
-Project | Description | Technologies | Testing
---- | --- | --- | ---
-[Standup&Retros](https://github.com/TudorTacal/makers-standups-retros) | The final two week group project at Makers Acedemy | Node.js, Express, MongoDB, React, Websockets, Heroku | Enzynme, Mocha, Chai
-[has_belongs](https://github.com/dinespoulsen/has_belongs) | Association Automation! My week 9 project at Makers Academy. A Ruby/Rails gem that automates the creation of PostgreSQL database associations in Rails. | Ruby, Thor, ActiveRecord | RSpec, Coveralls
-[Instagram Challenge](https://github.com/dinespoulsen/instagram-challenge) |My week 8 weekend challenge from Makers Academy | Ruby on Rails, Paperclip, Javascript/JQuery, ActiveRecord, Heroku, AWS | RSpec, Capybary
-[News-Summary](https://github.com/dinespoulsen/news-summary) |My week 7 weekend challenge from Makers Academy - fetching news articles from the Guardian API | Javascript/XTML, CSS, HTML |
-[Bowling Challenge](https://github.com/dinespoulsen/bowling-challenge) |My week 5 weekend challenge from Makers Academy - a bowling score interface built with Javascript | Javascript, Html, CSS |
-[Chitter-Challenge](https://github.com/dinespoulsen/chitter-challenge) |My week 4 weekend challenge from Makers Academy - an exercise to implement database associations | Postgres, DataMapper, Sinatra, Heroku, MailGun | RSpec
-[Rock, Paper and Scissors](https://github.com/dinespoulsen/RPS) |My week 3 weekend challenge from Makers Academy - Play Rock, Paper & Scissors against the computer or a friend | Html, Ruby, CSS, Sinatra | RSpec
 
 
 #### Copenhagen Business School
