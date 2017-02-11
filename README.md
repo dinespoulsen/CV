@@ -1,4 +1,4 @@
-[Get to know me](https://github.com/dinespoulsen/CV#get-to-know-me) |[Projects](https://github.com/dinespoulsen/CV#Project Portfolio) | [Skills](https://github.com/dinespoulsen/CV#skills) | [Education](https://github.com/dinespoulsen/CV#education) | [Work Experience](https://github.com/dinespoulsen/CV#experience) | [Interests](https://github.com/dinespoulsen/CV#interests) | [Languages](https://github.com/dinespoulsen/CV#interests) |
+[Get to know me](https://github.com/dinespoulsen/CV#get-to-know-me) |[Portfolio](https://github.com/dinespoulsen/CV#Portfolio) | [Skills](https://github.com/dinespoulsen/CV#skills) | [Education](https://github.com/dinespoulsen/CV#education) | [Work Experience](https://github.com/dinespoulsen/CV#experience) | [Interests](https://github.com/dinespoulsen/CV#interests) | [Languages](https://github.com/dinespoulsen/CV#interests) |
 
 ## Dines Michael Poulsen - Programmer under developement
 
@@ -8,10 +8,10 @@ At Makers Academy I learnt the best practise within the programming industry. I 
 
 I have a lot of international experience and thrive in a diverse community. I bring a lot of commercial experience after having worked in one of Scandinavia's largest companies. I am a team player and I have experience from project managing large and complex projects within the energy industry. I live in London with my Spanish girlfriend and I have been studying Spanish the last two years. I am an active and outgoing person that loves outdoor activities. I am passionate about food and I like to follow basketball in my spare time.
 
-##Project Portfolio
+##Portfolio
 
 Project | Description | Technologies | Testing
-<!-- --- | --- | --- | --- -->
+--- | --- | --- | ---
 [Standup&Retros](https://github.com/TudorTacal/makers-standups-retros) | The final two week group project at Makers Acedemy | Node.js, Express, MongoDB, React, Websockets, Heroku | Enzynme, Mocha, Chai
 [has_belongs](https://github.com/dinespoulsen/has_belongs) | Association Automation! My week 9 project at Makers Academy. A Ruby/Rails gem that automates the creation of PostgreSQL database associations in Rails. | Ruby, Thor, ActiveRecord | RSpec, Coveralls
 [Instagram Challenge](https://github.com/dinespoulsen/instagram-challenge) |My week 8 weekend challenge from Makers Academy | Ruby on Rails, Paperclip, Javascript/JQuery, ActiveRecord, Heroku, AWS | RSpec, Capybary
