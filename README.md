@@ -2,9 +2,9 @@
 
 ## Dines Michael Poulsen - Programmer under developement
 
-I am a Dane making it in the big world of London. Lover of the brutalist world and a dedicated Scandi by heart. You can often find me wondering about in the Barbican corridors or on my occasional city escapes to the country side. Before deciding to become a developer I was working in the Energy industry.  I touched a bit upon entrepreneurship during my studies and I have always secretly wanted to learn how to program. I find myself very motivated in being able to create a product and enjoy the problem solving part of programming. I have a creative side that I feel I get to use when I program and design webpages. I am about to graduate from the Makers Academy bootcamp, London’s top web development bootcamp and I wish to become a junior developer.
+I am a Dane making it in the big world of London. Lover of the brutalist world and a dedicated Scandi by heart. You can often find me wondering about in the Barbican corridors or on my occasional city escapes to the country side. I touched a bit upon entrepreneurship during my studies and I have always secretly wanted to learn how to program. I find myself very motivated in being able to create a product and enjoy the problem solving part of programming. I have a creative side that I feel I get to use when I program and design webpages. I have just graduated from the Makers Academy bootcamp, London’s top web development bootcamp and I wish to become a junior developer. Before deciding to become a developer I was working in the Energy industry and enjoy working with technical disciplines.  
 
-At Makers Academy you are taught the best practises within the programming industry. I have gained a high understanding of object oriented programming and I follow TDD practises. I want to pursue my interest in programming and I have enjoyed every moment since I made the decision. I am highly motivated to learn and I have demonstrated an ability to learn new programming languages fast. I want to apply my newly found programming skills and eventually become a senior developer. I hope to be able to continue my learning within programming and get challenged in the daily work. I want to have smart and helpful colleagues around me to learn from. I would like to work in a company that sticks to best practices and use TDD processes. So far I have found myself good at problem solving and debugging. I have a good analytical approach and I am good at picking up new technologies.
+At Makers Academy I learnt the best practise within the programming industry. I have gained a high understanding of object oriented programming and I follow TDD practises. I want to pursue my interest in programming and I have enjoyed every moment since I made the decision to start at Makers Academy. I am highly motivated to learn and I have demonstrated an ability to learn new programming languages fast. I want to apply my newly found programming skills and eventually become a senior developer. I hope to be able to continue my learning within programming and get challenged in the daily work. I want to have smart and helpful colleagues around me to learn from. I would like to work in a company that sticks to best practices and use Agile work processes. So far I have found myself good at problem solving and debugging. I have a good analytical approach and I am good at picking up new technologies.
 
 I have a lot of international experience and thrive in a diverse community. I bring a lot of commercial experience after having worked in one of Scandinavia's largest companies. I am a team player and I have experience from project managing large and complex projects within the energy industry. I live in London with my Spanish girlfriend and I have been studying Spanish the last two years. I am an active and outgoing person that loves outdoor activities. I am passionate about food and I like to follow basketball in my spare time.
 
@@ -15,14 +15,24 @@ I have a lot of international experience and thrive in a diverse community. I br
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
+- OOP, TDD, SOLID
+- Agile processes
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Express
+- Ruby on Rails
+- Javascript, Node.js, Express
 - React
 - HTML & CSS
-- Websocket
-- Rspec, Jasmine, Mocha
+- Websockets
+- Rspec, Jasmine, Mocha, Enzyme
 - Postgres, MongoDB
+
+## <a name="projects">Projects Showcase</a>
+
+Project | Description | Technologies | Testing
+--- | --- | --- | ---
+[Standup&Retros](https://github.com/TudorTacal/makers-standups-retros | The final two week group project at Makers Acedemy | Node.js, Express, MongoDB, React, Websockets | Enzynme, Mocha, Chai
+[has_belongs](https://github.com/kwilson541/has_belongs) | Association Automation! My week 9 project at Makers Academy. A Ruby/Rails gem that automates the creation of PostgreSQL database associations in Rails. | Ruby, Thor, ActiveRecord | RSpec, Coveralls
+
 
 ###Project portfolio:
 ####Standup & Retros
