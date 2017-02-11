@@ -1,4 +1,4 @@
-[Get to know me](https://github.com/dinespoulsen/CV#get-to-know-me) |[Portfolio](https://github.com/dinespoulsen/CV#Portfolio) | [Skills](https://github.com/dinespoulsen/CV#skills) | [Education](https://github.com/dinespoulsen/CV#education) | [Work Experience](https://github.com/dinespoulsen/CV#experience) | [Interests](https://github.com/dinespoulsen/CV#interests) | [Languages](https://github.com/dinespoulsen/CV#interests) |
+[Get to know me](https://github.com/dinespoulsen/CV#get-to-know-me) |[Portfolio](https://github.com/dinespoulsen/CV#Portfolio) | [Education](https://github.com/dinespoulsen/CV#Education) | [Work Experience](https://github.com/dinespoulsen/CV#Work Experience) | [Interests](https://github.com/dinespoulsen/CV#interests) | [Languages](https://github.com/dinespoulsen/CV#Languages (besides programming)) |
 
 ## Dines Michael Poulsen - Programmer under developement
 
@@ -57,7 +57,8 @@ Project | Description | Technologies | Testing
 - Statistics
 - Organisational theory
 
-## Work Experience - [Linkedin](https://uk.linkedin.com/in/dinespoulsen)
+## Work Experience
+[Linkedin](https://uk.linkedin.com/in/dinespoulsen)
 
 **Statoil UK** (May 2015 to November 2016)    
 - Commercial Downstream Gas/Power Operator - *Part of the downstream gas/power operator shift team. The team is responsible for balancing and optimization of Statoil's downstream gas/power portfolios*
