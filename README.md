@@ -12,7 +12,7 @@ I have a lot of international experience and thrive in a diverse community. I br
 
 Project | Description | Technologies | Testing | Heroku
 --- | --- | --- | --- | ---
-[Standup&Retros](https://github.com/TudorTacal/makers-standups-retros) | The final two week group project at Makers Acedemy | Node.js, Express, MongoDB, React, Websockets, Heroku | Enzynme, Mocha, Chai | [Link](https://standupsandretros.herokuapp.com/)
+[Standup&Retros](https://github.com/TudorTacal/makers-standups-retros) | The final two week group project at Makers Academy. A project inspired working with Agile methodologies. | Node.js, Express, MongoDB, React, Websockets, Heroku | Enzynme, Mocha, Chai | [Link](https://standupsandretros.herokuapp.com/)
 [has_belongs](https://github.com/dinespoulsen/has_belongs) | Association Automation! My week 9 project at Makers Academy. A Ruby/Rails gem that automates the creation of PostgreSQL database associations in Rails. | Ruby, Thor, ActiveRecord | RSpec, Coveralls | [Link](https://rubygems.org/gems/has_belongs)
 [Instagram Challenge](https://github.com/dinespoulsen/instagram-challenge) |My week 8 weekend challenge from Makers Academy | Ruby on Rails, Paperclip, Javascript/JQuery, ActiveRecord, Heroku, AWS | RSpec, Capybary | [Link](https://insta-challenge-clone.herokuapp.com/)
 [News-Summary](https://github.com/dinespoulsen/news-summary) |My week 7 weekend challenge from Makers Academy - fetching news articles from the Guardian API | Javascript/XTML, CSS, HTML |
