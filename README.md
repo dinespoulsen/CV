@@ -1,6 +1,6 @@
-[Get to know me](#About) | [Portfolio](#Portfolio) | [Education](#Education) | [Work Experience](#Work) | [Interests](#Interests) | [Languages](#Languages)) |
+[Get to know me](#About) | [Portfolio](#Portfolio) | [Education](#Education) | [Work Experience](#Experience) | [Interests](#Interests) | [Languages](#Languages)) |
 
-##About
+## <a name="About">About</a>
 
 I am a Dane making it in the big world of London. Lover of the brutalist world and a dedicated Scandi by heart. You can often find me wondering about in the Barbican corridors or on my occasional city escapes to the country side. I touched a bit upon entrepreneurship during my studies and I have always secretly wanted to learn how to program. I find myself very motivated in being able to create a product and enjoy the problem solving part of programming. I have a creative side that I feel I get to use when I program and design webpages. I have just graduated from the Makers Academy bootcamp, London’s top web development bootcamp and I wish to become a junior developer. Before deciding to become a developer I was working in the Energy industry and enjoy working with technical disciplines.  
 
@@ -8,7 +8,7 @@ At Makers Academy I learnt the best practise within the programming industry. I 
 
 I have a lot of international experience and thrive in a diverse community. I bring a lot of commercial experience after having worked in one of Scandinavia's largest companies. I am a team player and I have experience from project managing large and complex projects within the energy industry. I live in London with my Spanish girlfriend and I have been studying Spanish the last two years. I am an active and outgoing person that loves outdoor activities. I am passionate about food and I like to follow basketball in my spare time.
 
-##Portfolio
+## <a name="Portfolio">Portfolio</a>
 
 Project | Description | Technologies | Testing
 --- | --- | --- | ---
@@ -21,7 +21,7 @@ Project | Description | Technologies | Testing
 [Rock, Paper and Scissors](https://github.com/dinespoulsen/RPS) |My week 3 weekend challenge from Makers Academy - Play Rock, Paper & Scissors against the computer or a friend | Html, Ruby, CSS, Sinatra | RSpec
 
 
-##Education
+## <a name="Education">Education</a>
 
 #### Makers Academy (Nov 2016 - Feb 2017)
 
@@ -37,8 +37,6 @@ Project | Description | Technologies | Testing
 - Websockets
 - Rspec, Jasmine, Mocha, Enzyme
 - Postgres, MongoDB
-
-
 
 #### Copenhagen Business School
 ##### Master's Degree in Applied Economics and Finance ( 2008 - 2011 )
@@ -57,7 +55,7 @@ Project | Description | Technologies | Testing
 - Statistics
 - Organisational theory
 
-## Work Experience
+## <a name="Experience">Experience</a>
 [Linkedin](https://uk.linkedin.com/in/dinespoulsen)
 
 **Statoil UK** (May 2015 to November 2016)    
@@ -73,14 +71,14 @@ Project | Description | Technologies | Testing
 **Salfarm Sweden/Norway** (June 2010 to Nov 2011)  
 - Regional sales manager for Sweden and Norway - *I set up a regional sales office for a privately owned pharmaceutical company. Established selling license in Sweden and Norway and facilitated sales and distribution channels. I was in charge of marketing and introducing new products into the two markets.*
 
-##Interests
+## <a name="Interests">Interests</a>
 - Basketball
 - Currently working on improving my spoken Spanish
 - Furniture design
 - Nature/travelling
 - Cooking
 
-##Languages
+## <a name="Languages">Languages</a>
 - English
 - Spanish
 - French
