@@ -41,7 +41,7 @@ Project | Description | Technologies | Testing | Heroku
 #### Copenhagen Business School
 ##### Master's Degree in Applied Economics and Finance ( 2008 - 2011 )
 - 1 semester at The Haskayne Business School
-- Econometris
+- Econometrics
 - Macroeconomics
 - Corporate Finance
 - Valuation theory
