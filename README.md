@@ -1,8 +1,6 @@
 ## Dines Michael Poulsen
 
-[Get to know me](#About) | [Portfolio](#Portfolio) | [Education](#Education) | [Work Experience](#Experience) | [Interests](#Interests) | [Languages](#Languages) |
-
-## <a name="About">About</a>
+[Portfolio](#Portfolio) | [Education](#Education) | [Work Experience](#Experience) | [Interests](#Interests) | [Languages](#Languages) |
 
 I am a Dane making it in the big world of London as a full stack developer. Lover of the brutalist world and a dedicated Scandi by heart. I touched a bit upon entrepreneurship during my studies and I have always secretly wanted to learn how to program. I find myself very motivated in being able to create a product and enjoy the problem solving part of programming. I have a creative side that I feel I get to use when I program and design webpages. Before deciding to become a developer I was working in the Energy industry where I enjoyed problem solving within technical disciplines.  
 
