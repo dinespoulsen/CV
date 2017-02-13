@@ -29,14 +29,13 @@ Project | Description | Technologies | Testing | Heroku
 - Independent learner and problem-solver
 - OOP, TDD, SOLID
 - Agile processes
-- Software Craftsmanship
 - Ruby on Rails
 - Javascript, Node.js, Express
 - React
 - HTML & CSS
-- Websockets
 - Rspec, Jasmine, Mocha, Enzyme
 - Postgres, MongoDB
+- Webpack, Babel, Websockets
 
 #### Copenhagen Business School
 ##### Master's Degree in Applied Economics and Finance ( 2008 - 2011 )
