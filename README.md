@@ -6,7 +6,7 @@ I am a Dane making it in the big world of London as a full stack developer. I to
 
 I have excelled when it comes to learning new technologies and I have pushed myself to pick up some of the latest trends. I want to stay updated and my final project at Makers academy is a testament to this. The project was written using the MERN stack which I learnt in just 4 days. I want to work with big data where my analytical side gets to flourish. I have a creative side that I feel I get to use when I program which is a very motivating aspect for me.
 
-At Makers Academy I learned the best practices within the programming industry. I have gained a high understanding of object oriented programming and I follow TDD practices. I am highly motivated to learn and I have demonstrated an ability to pick up new programming languages fast. I want to apply my newly found programming skills and eventually become a senior developer. I hope to be able to continue my learning within programming and get challenged in the daily work. I want to have smart and helpful colleagues around me to learn from. I would like to work in a company that sticks to best practices and use Agile work processes.
+At Makers Academy I learned the best practices within the programming industry. I have gained a high understanding of object oriented programming and I follow TDD practices. I am highly motivated to learn and I have demonstrated an ability to pick up new programming languages fast. I want to apply my newly found programming skills and eventually become a senior developer. I want to have smart and helpful colleagues around me to learn from. I would like to work in a company that sticks to best practices and use Agile work processes.
 
 ## Skills
 
