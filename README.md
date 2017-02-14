@@ -10,7 +10,7 @@ At Makers Academy I learnt the best practises within the programming industry. I
 
 ### Problem solving
 
-I bring a lot of commercial experience after having worked in one of Scandinavia's largest energy companies. I have held several different analysis roles where I had to produce material in often very technical areas. In my role as a commercial gas operator I had to work in a fast paced environment where errors would have an immediate impact on the bottom line. Working with gas markets you are exposed to a very technical discipline and I often had to come up with creative solutions to new problems. I like that I can apply my analytical mindset to coding and at the same time showcase my create side.
+I bring a lot of commercial experience after having worked in one of Scandinavia's largest energy companies. I have held several different analysis roles where I had to produce material in often very technical areas. In my role as a commercial gas operator I had to work in a fast paced environment where errors would have an immediate impact on the bottom line. Working with gas markets you are exposed to a very technical discipline and I often had to come up with creative solutions to new problems.
 
 ### Communication
 
