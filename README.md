@@ -16,7 +16,9 @@ At Makers Academy I learned the best practices within the programming industry. 
 
 ### Communication
 
-In my previous roles I often had to present analysis to management or host internal workshops which demanded clear and precise communication. I have a lot of international experience and thrive in a diverse community. I got hired in to Statoil's graduate program after my studies which meant that I learnt how to navigate within a big corporation. I am a team player and I have experience from project managing large and complex projects within the energy industry. I have a solid commercial background after having negotiated several valuable gas contracts and I'm used to communicating with clients and counterparts.
+In my previous roles I often had to present analysis to management or host internal workshops which demanded clear and precise communication. I have a lot of international experience and thrive in a diverse community. I got hired in to Statoil's graduate program after my studies which meant that I learnt how to navigate within a big corporation.
+
+I am a team player and I have experience from project managing large and complex projects within the energy industry. I have a solid commercial background after having negotiated several valuable gas contracts and I'm used to communicating with clients and counterparts.
 
 
 ## <a name="Portfolio">Portfolio</a>
