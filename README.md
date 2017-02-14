@@ -1,10 +1,12 @@
 ## Dines Michael Poulsen
 
-[Portfolio](#Portfolio) | [Education](#Education) | [Work Experience](#Experience) | [Interests](#Interests) | [Languages](#Languages) |
+[Portfolio](#Portfolio) | [Skills](#Skills) | [Education](#Education) | [Work Experience](#Experience) | [Interests](#Interests) | [Languages](#Languages) |
 
 I am a Dane making it in the big world of London as a full stack developer. I touched a bit upon entrepreneurship during my studies and I have always secretly wanted to learn how to program. I find myself very motivated in being able to create a product and enjoy the problem solving part of programming. I have excelled when it comes to learning new technologies and I have pushed myself to pick up some of the latest tech trends. I want to stay updated and therefore my final project at Makers academy was written using the MERN stack. I have a creative side that I feel I get to use when I program and design webpages. Before deciding to become a developer I was working in the energy industry where I enjoyed problem solving within technical disciplines.  
 
 At Makers Academy I learnt the best practises within the programming industry. I have gained a high understanding of object oriented programming and I follow TDD practises. I am highly motivated to learn and I have demonstrated an ability to pick up new programming languages fast. I want to apply my newly found programming skills and eventually become a senior developer. I hope to be able to continue my learning within programming and get challenged in the daily work. I want to have smart and helpful colleagues around me to learn from. I would like to work in a company that sticks to best practices and use Agile work processes.
+
+## Skills
 
 ### Problem solving
 
