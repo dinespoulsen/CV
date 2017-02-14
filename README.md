@@ -8,7 +8,7 @@ I have excelled when it comes to learning new technologies and I have pushed mys
 
 At Makers Academy I learned the best practices within the programming industry. I have gained a high understanding of object oriented programming and I follow TDD practices. I am highly motivated to learn and I have demonstrated an ability to pick up new programming languages fast. I want to apply my newly found programming skills and eventually become a senior developer. I want to have smart and helpful colleagues around me to learn from. I would like to work in a company that sticks to best practices and use Agile work processes.
 
-## Skills
+## <a name="Skills">Skills</a>
 
 ### Problem solving
 
