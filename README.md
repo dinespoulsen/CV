@@ -12,7 +12,7 @@ At Makers Academy I learned the best practices within the programming industry. 
 
 ### Problem solving
 
- Before deciding to become a developer I was working in the energy industry where I enjoyed problem solving within technical disciplines. I have held several different analysis roles where I had to produce material in often very technical areas. In my role as a commercial gas operator I had to work in a fast paced environment where errors would have an immediate impact on the bottom line. Working with gas markets you are exposed to a variety of technical disciplines and I often had to come up with creative solutions to new problems.
+ Before deciding to become a developer I was working in the energy industry where I enjoyed problem solving within technical disciplines. I have held several different analyst roles where I had to produce material in often very technical areas. In my role as a commercial gas operator I had to work in a fast paced environment where errors would have an immediate impact on the bottom line. Working with gas markets you are exposed to a variety of technical disciplines and I often had to come up with creative solutions to new problems.
 
 ### Communication
 
